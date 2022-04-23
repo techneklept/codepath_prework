@@ -76,7 +76,10 @@ Another question that I had regarded deployment. Since glitch does most of the w
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+Had I had more hours to work on this project, I would have definitely taken some time to make it visually appealing. I would have wanted to create a way to provide positive feedback to users if they had gotten the correct order. For example, I think it would be worthwhile to include a thumbs-up image or an image of a checkmark within the button if it was selected correctly. Likewise, if the wrong button was selected, I would have implemented a thumbs-down or an image of a red X to show visually that an error was made. 
+
+In addition, I would have loved to tinker with the sound component of the game on a deeper level. While I was able to change the frequency of the pitch, I wanted to learn more about how the tone and timbre of the sound was generated and wondered how I would go about changing it. Rather than that buzzy, synthy sound, what if I wanted something more airy like a flute, or more reedy like a clarinet? I think it would've been interesting to see how such sounds are formulated but is definitely beyond the scope of this. 
 
 
 
