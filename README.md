@@ -102,4 +102,4 @@ In addition, I would have loved to tinker with the sound component of the game o
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License.sdf
+    limitations under the License.
