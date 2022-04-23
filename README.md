@@ -57,12 +57,12 @@ Randomly generated sequences:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-    [• Using opacity property for h1 and p element backgrounds - (https://www.w3schools.com/cssref/css3_pr_opacity.asp)
+    • Using opacity property for h1 and p element backgrounds - (https://www.w3schools.com/cssref/css3_pr_opacity.asp)
     
-    • Creating an array of random integers for randomizing order of the game's pattern - (https://stackoverflow.com/questions/5836833/create-an-array-with-random-values)]
+    • Creating an array of random integers for randomizing order of the game's pattern - (https://stackoverflow.com/questions/5836833/create-an-array-with-random-values)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[Overall, the basic requirements of the memory game was straightforward to implement. What I found challenging was incorporating a few of the optional features...]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
