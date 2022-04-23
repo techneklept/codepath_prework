@@ -1,7 +1,7 @@
 //Global constants
 const volume = 0.5;
 const cluePauseTime = 333; 
-const nextClueWaitTime = 1200;
+const nextClueWaitTime = 1000;
 
 //Global variables
 let pattern = []
@@ -48,7 +48,7 @@ function guess(btn){
       }else{
         progress++;
         playClueSequence();
-        clueHoldTime -= 110;
+        clueHoldTime -= 125;
       }
     }else{
       guessCounter++;
