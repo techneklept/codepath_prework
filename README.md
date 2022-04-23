@@ -50,10 +50,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-
-• Using opacity property for h1 and p element backgrounds - (https://www.w3schools.com/cssref/css3_pr_opacity.asp)
-
-• Creating an array of random integers for randomizing order of the game's pattern - (https://stackoverflow.com/questions/5836833/create-an-array-with-random-values)
+    • Using opacity property for h1 and p element backgrounds - (https://www.w3schools.com/cssref/css3_pr_opacity.asp)
+    • Creating an array of random integers for randomizing order of the game's pattern - (https://stackoverflow.com/questions/5836833/create-an-array-with-random-values)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
