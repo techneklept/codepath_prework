@@ -68,7 +68,11 @@ When it came time to implement some of the optional features, I was unfamiliar w
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+One question that I had regarding web development is how sound and tones are generated. The function that played the sequence of tones and what frequencies seemed to be a black box and I didn't at all understand how it worked. I also wondered about the quality of the tone, which seemed buzzy and metallic for lack of better terms. How does one change the timbre through code?  This seems to be a rather interesting question and something that piqued my curiousity to dive deeper into sound generation. 
+
+Another question that I had regarded deployment. Since glitch does most of the work of hosting the page, I wonder about how I would go about deploying this webapp on my own, from scratch. 
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
