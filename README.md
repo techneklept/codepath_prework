@@ -58,11 +58,14 @@ Randomly generated sequences:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
     • Using opacity property for h1 and p element backgrounds - (https://www.w3schools.com/cssref/css3_pr_opacity.asp)
-    
     • Creating an array of random integers for randomizing order of the game's pattern - (https://stackoverflow.com/questions/5836833/create-an-array-with-random-values)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[Overall, the basic requirements of the memory game was straightforward to implement. What I found challenging was incorporating a few of the optional features...]
+
+What makes web development of this nature enjoyable and worthwhile is the instant feedback developers get when coding and making changes to the html/css/js files. Changes to the code are rendered visually and made immediately apparent. Couple this with the informative resource that was provided to us made the overall experience of coding up the base requirements straightforward and without much confusion.
+
+When it came time to implement some of the optional features, I was unfamiliar with how to do so and found it initially challenging. I am inexperienced with the javascript language so I didn't quite know how to implement the randomized sequence feature of the program. After searching on Stack Overflow for a workable solution, I was able to make sense of generating an array of random integers and was able to create a function that randomized the sequence for the game. Another challenge was implementing the feature that sped up the sequence of notes after each pass. What helped was understanding the flow of the program and the sequence of function calls. With this knowledge, I was able to debug the program so that I knew at what line of the program to decrement the length of the tone (and by how much). This approach served me well when I implemented the feature that allowed users to have 2 mistakes before terminating the game on the third mistake. 
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
