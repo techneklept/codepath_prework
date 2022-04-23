@@ -58,6 +58,7 @@ Randomly generated sequences:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
     • Using opacity property for h1 and p element backgrounds - (https://www.w3schools.com/cssref/css3_pr_opacity.asp)
+
     • Creating an array of random integers for randomizing order of the game's pattern - (https://stackoverflow.com/questions/5836833/create-an-array-with-random-values)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
@@ -71,7 +72,7 @@ When it came time to implement some of the optional features, I was unfamiliar w
 
 One question that I had regarding web development is how sound and tones are generated. The function that played the sequence of tones and what frequencies seemed to be a black box and I didn't at all understand how it worked. I also wondered about the quality of the tone, which seemed buzzy and metallic for lack of better terms. How does one change the timbre through code?  This seems to be a rather interesting question and something that piqued my curiousity to dive deeper into sound generation. 
 
-Another question that I had regarded deployment. Since glitch does most of the work of hosting the page, I wonder about how I would go about deploying this webapp on my own, from scratch. 
+Another question that I had regarded deployment. Since glitch does most of the work of hosting the page, I wonder about how I would go about deploying this webapp from scratch. How do I host and serve this for others to try? If, for some odd reason, this webapp became viral and I had exponentially many users trying it, how do I scale it so that millions of users are able to enjoy this game without disruption or error?
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
