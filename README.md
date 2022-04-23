@@ -42,11 +42,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+Full winning sequence, first half
+![](https://im2.ezgif.com/tmp/ezgif-2-502a8bf505.gif)
+
+Full winning sequence (with Congratulations prompt), second half
+![](https://im2.ezgif.com/tmp/ezgif-2-df57269b72.gif)
+
+Three wrong guesses, with prompts from browser
+![](https://im2.ezgif.com/tmp/ezgif-2-23f973be21.gif)
+
+Randomly generated sequences
+![](https://im2.ezgif.com/tmp/ezgif-2-30abc472ce.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
