@@ -42,16 +42,20 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-Full winning sequence, first half
+Full winning sequence, first half:
+
 ![](https://im2.ezgif.com/tmp/ezgif-2-502a8bf505.gif)
 
-Full winning sequence (with Congratulations prompt), second half
+Full winning sequence (with Congratulations prompt), second half:
+
 ![](https://im2.ezgif.com/tmp/ezgif-2-df57269b72.gif)
 
-Three wrong guesses, with prompts from browser
+Three wrong guesses, with prompts from browser:
+
 ![](https://im2.ezgif.com/tmp/ezgif-2-23f973be21.gif)
 
-Randomly generated sequences
+Randomly generated sequences:
+
 ![](https://im2.ezgif.com/tmp/ezgif-2-30abc472ce.gif)
 
 ## Reflection Questions
