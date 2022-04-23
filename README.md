@@ -40,19 +40,19 @@ The following **additional** features are implemented:
 
 Full winning sequence, first half:
 
-![](https://im2.ezgif.com/tmp/ezgif-2-502a8bf505.gif)
+![](https://s10.gifyu.com/images/full-sequence-first-half.gif)
 
 Full winning sequence (with Congratulations prompt), second half:
 
-![](https://im2.ezgif.com/tmp/ezgif-2-df57269b72.gif)
+![](https://s10.gifyu.com/images/full-sequence-second-half.gif)
 
 Three wrong guesses, with prompts from browser:
 
-![](https://im2.ezgif.com/tmp/ezgif-2-23f973be21.gif)
+![](https://s10.gifyu.com/images/3-mistakes.gif)
 
 Randomly generated sequences:
 
-![](https://im2.ezgif.com/tmp/ezgif-2-30abc472ce.gif)
+![](https://s10.gifyu.com/images/randomly-generated-sequence.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
